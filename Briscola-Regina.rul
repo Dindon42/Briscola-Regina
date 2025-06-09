@@ -25,7 +25,7 @@ Le jeu se divise en quatre sortes/familles:
 -Spart (Épée)
 -Baston (Bâton)
 
-Chaque famille est composée de 10 cartes, présentées ci-bas par ordre de force:
+Chaque famille est composée de 10 cartes, présentées ci-bas par ordre décroissant de force:
 
 +-------+-----+
 | Carte | Pts |
@@ -78,12 +78,13 @@ Le jeu est divisé en plis ou levées.
 Une levée est composée d'une carte de chaque joueur.
 
 La levée est remportée par:
--L'atout le plus élevé;
+-L'atout le plus élevé
 ou
 -La carte la plus forte dans la sorte demandée. (La sorte de la carte jouée par le premier joueur.)
 
 Il n'est pas obligatoire de fournir. (Jouer dans la sorte demandée, si on possède une carte de cette sorte.)
-Il n'est pas obligatoire de couper. (Jouer un atout, si vous en possédez un et que vous n'avez plus de cartes de la sorte demandée.)
+
+Il n'est pas obligatoire de couper. (Jouer un atout, si on en possède un et qu'on n'a pas de cartes de la sorte demandée.)
 
 Le vainqueur de la levée ramasse les cartes et les place face vers le bas proche de lui.
 Elles seront comptabilisées en fin de partie.
@@ -91,6 +92,8 @@ Elles seront comptabilisées en fin de partie.
 En commençant par le vainqueur, et procédant dans l'ordre de jeu, chaque joueur pige une carte.
 
 Le vainqueur entame le prochain pli.
+
+Le jeu se poursuit jusqu'à ce que toutes les cartes aient été jouées.
 
 
 =====================
@@ -104,16 +107,16 @@ Elle vaut 20 pts.
 Bris supplémentaire:
 Il est possible d'appeler d'autres Briscola, elles n'influencent pas l'atout et valent 10 pts.
 
-Échange des mains:
+Pioche épuisée - Échange des mains:
 Lorsque la pioche est épuisée, les partenaires échangent leurs mains afin d'élaborer une stratégie.
 Cette phase est généralement assez brève.
-Les joueurs reprennent ensuite leur main d'origine et le jeu se poursuit ensuite normalement, jusqu'à ce que toutes les cartes aient été jouées.
+Les joueurs reprennent leur main d'origine et le jeu se poursuit ensuite normalement, à l'exception du fait que la pioche est vide et donc qu'on ne pige plus à la fin d'un pli.
 
 
 ==================
 = Communications =
 ==================
-Contrairement à la majorité des jeux, il est permis de parler de nos cartes avec notre partenaire, la communication doit rester relativement générique.
+Contrairement à la majorité des jeux, il est permis de parler de nos cartes avec notre partenaire, la communication doit par contre rester relativement générique.
 
 Quelques exemples:
 Refusé: "J'ai le 2 de Spart" Accepté:"J'ai un petit Spart"
