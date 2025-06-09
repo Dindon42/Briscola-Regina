@@ -1,4 +1,4 @@
-aBriscola Regina - Règles non-officielles (jeu de cartes)
+Briscola Regina - Règles non-officielles (jeu de cartes)
 Version Regina Assumpta (de mémoire, 25 ans plus tard)
 __________        .__                    .__           __________              .__               
 \______   \_______|__| ______ ____  ____ |  | _____    \______   \ ____   ____ |__| ____ _____   
@@ -59,7 +59,7 @@ Chaque famille est composée de 10 cartes, présentées ci-bas par ordre de forc
 =====================
 = Nombre de joueurs =
 =====================
-Le jeu se joue le mieux à 2v2, mais se joue bien en 1v1.  Il pourrait même être adapté pour 3 ou 5?
+Le jeu se joue le mieux à 2v2, mais se joue bien en 1v1.
 
 
 ===============
@@ -69,6 +69,7 @@ On distribue 5 cartes à chaque joueur.
 Le reste des cartes est placé au centre de la table et formera la pioche.
 Le joueur à droite du donneur entame.
 Le jeu se poursuit en sens anti-horaire.
+
 
 ==========
 = Le jeu =
@@ -96,26 +97,29 @@ Le vainqueur entame le prochain pli.
 = Actions Spéciales =
 =====================
 Appeler la Bris:
-À son tour, en révélant le Roi et le Caval de la même sorte aux autres joueurs, on "Call la Bris".
+À tout moment, un joueur peut appeler la Briscola en révélant de sa main le Roi et le Caval d'une même sorte aux autres joueurs.
 Cette action définit l'atout pour le restant de la partie.
 Elle vaut 20 pts.
 
 Bris supplémentaire:
-Il est possible de caller d'autres Bris, elles n'influencent pas l'atout et valent 10 pts.
+Il est possible d'appeler d'autres Briscola, elles n'influencent pas l'atout et valent 10 pts.
 
 Échange des mains:
 Lorsque la pioche est épuisée, les partenaires échangent leurs mains afin d'élaborer une stratégie.
-Cette intervention se doit d'être brève.
-Les joueurs reprennent leur main et le jeu reprend ensuite normalement.
+Cette phase est généralement assez brève.
+Les joueurs reprennent ensuite leur main d'origine et le jeu se poursuit ensuite normalement, jusqu'à ce que toutes les cartes aient été jouées.
 
 
 ==================
 = Communications =
 ==================
 Contrairement à la majorité des jeux, il est permis de parler de nos cartes avec notre partenaire, la communication doit rester relativement générique.
+
 Quelques exemples:
 Refusé: "J'ai le 2 de Spart" Accepté:"J'ai un petit Spart"
 Refusé: "J'ai le Caval de Baston" Accepté: "Possibilité Baston"
+
+Aucune communication acceptée avant la fin du premier pli.
 
 
 =================
@@ -125,5 +129,18 @@ Lorsque toutes les cartes auront été jouées, les équipes comptabilisent leur
 L'équipe avec le plus de points gagne.
 En cas d'égalité, l'équipe avec l'As de Denar gagné la partie.
 
-On joue généralement des 2 de 3, 3 de 5 ou 4 de 7.
-On peut aussi jouer pour un total de points au lieu d'un nombre de victoires.
+On joue généralement pour un nombre de parties gagnées, 2 de 3, 3 de 5 ou 4 de 7.
+
+
+
+=============
+= Variantes =
+=============
+Points:
+On peut jouer pour un total de points au lieu d'un nombre de victoires.
+
+Briscola définie:
+Au lieu d'appeler la Bris, on retourne la dernière carte de la pioche, ce qui définit l'atout pour la partie. Élément stratégique car on sait qui aura cette carte d'atout.
+
+
+
